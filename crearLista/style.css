@@ -1,0 +1,17 @@
+body {
+  background-color: cornflowerblue;
+}
+button {
+  color: whitesmoke;
+  background-color: brown;
+  border-radius: 5px;
+}
+input {
+  border-radius: 5px;
+}
+h2,
+li,
+label {
+  font-family: fantasy;
+  color: aliceblue;
+}
